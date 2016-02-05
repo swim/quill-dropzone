@@ -1,0 +1,90 @@
+/**
+ * @file
+ * quill.dropzone.css
+ */
+
+body {
+  margin: 0;
+}
+
+.dropzone {
+  border: none;
+  margin: 0;
+}
+
+.quill-wrapper {
+  background-color: #fff;
+  box-shadow: 0px 0px 2px #ccc;
+  margin-top: 35px;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+#navigation {
+  width: 100%;
+  border-bottom: 1px solid #f9f9f9;
+  overflow: hidden;
+}
+#navigation ul {
+  margin: 0;
+  padding: 0;
+}
+#navigation ul li {
+  float: left;
+  list-style: none;
+}
+#navigation ul li a {
+  color: #444;
+  display: block;
+  padding: 20px 25px;
+  text-decoration: none;
+}
+
+.preview {
+  height: 60vh;
+  background-color: #f1f1f1;
+  border-bottom: 1px solid #f9f9f9;
+  overflow: hidden;
+}
+.preview .container {
+  width: 80%;
+  margin: 0 auto;
+}
+.preview .toolbar {
+  border-bottom: 1px solid #f9f9f9;
+}
+.preview .editor {
+  
+}
+
+.usage {
+  padding: 35px;
+}
+
+.methods {
+  padding: 35px;
+}
+
+.footer {
+  padding: 35px;
+  border-top: 1px solid #f9f9f9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+{
+  "name": "quill-dropzone",
+  "version": "0.0.1",
+  "description": "Provides Dropzone.js integration with Quill editor.",
+  "main": "src/dropzone.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swim/quill-dropzone"
+  },
+  "keywords": [
+    "JavaScript",
+    "Dropzone",
+    "Quill",
+    "Front End"
+  ],
+  "author": "Swim",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/swim"
+  },
+  "devDependencies": {
+    "uglify-js": "~2.4.24",
+    "watchify": "~3.4.0",
+    "browserify": "~11.2.0",
+    "vinyl-source-stream": "~1.1.0",
+    "gulp-sourcemaps": "~1.6.0",
+    "vinyl-buffer": "~1.0.0",
+    "gulp": "~3.9.0",
+    "babelify": "~6.3.0",
+    "lodash.assign": "~3.2.0",
+    "vinyl-fs": "~2.1.1",
+    "deprecated": "0.0.1",
+    "gulp-util": "~3.0.6",
+    "orchestrator": "~0.3.7",
+    "gulp-rename": "~1.2.2"
+  },
+  "dependencies": {
+    "dropzone": "~4.2.0"
+  }
+}
